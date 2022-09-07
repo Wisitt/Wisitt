@@ -1,8 +1,6 @@
 #
 <h1 align="center">Hi 👋, I'm Wistit</h1>
 
-<a href="https://app.daily.dev/Agustd"><img src="https://api.daily.dev/devcards/03205b2ea80f4986bbb61007ddf4fa70.png?r=yc8" width="400" alt="Wisit moonet's Dev Card"/></a>
-
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
 
@@ -25,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dillonbrantley&show_icons=true&locale=en" alt="dillonbrantley" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dillonbrantley&" alt="dillonbrantley" /></p>
+
+<a href="https://app.daily.dev/Agustd"><img src="https://api.daily.dev/devcards/03205b2ea80f4986bbb61007ddf4fa70.png?r=yc8" width="400" alt="Wisit moonet's Dev Card"/></a>
