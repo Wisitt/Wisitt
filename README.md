@@ -1,5 +1,5 @@
 #
-<h1 align="center">Hi 👋, I'm Wistit</h1>
+<h1 align="center">Hi 👋, I'm Wisit</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wisitt&label=Profile%20views&color=0e75b6&style=flat" alt="wisitt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wisitt" alt="wisitt" /></a> </p>
