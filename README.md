@@ -21,7 +21,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wisitt&show_icons=true&locale=en" alt="wisitt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wisitt&" alt="wisitt" /></p>
+
 
 <a href="https://app.daily.dev/Wisit"><img src="https://api.daily.dev/devcards/03205b2ea80f4986bbb61007ddf4fa70.png?r=akt" width="400" alt="Wisit moondet's Dev Card"/></a>
 
