@@ -17,7 +17,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisitt-github-username)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <a href="https://app.daily.dev/Wisit"><img src="https://api.daily.dev/devcards/03205b2ea80f4986bbb61007ddf4fa70.png?r=akt" width="400" alt="Wisit moondet's Dev Card"/></a>
