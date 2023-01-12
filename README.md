@@ -15,7 +15,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wisitt)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wisitt&show_icons=true&locale=en" alt="wisitt" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wisitt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
