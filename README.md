@@ -174,11 +174,9 @@ focus:
 
 ## Trophy Wall
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Wisitt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" />
-
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Wisitt/Wisitt/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 ---
 
