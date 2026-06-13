@@ -1,105 +1,110 @@
 <div align="center">
 
-<!-- HERO -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&customColorList=12,20,24,25,30&text=Wisit%20Moondet&fontSize=54&fontColor=FFFFFF&animation=fadeIn&desc=Full-Stack%20Engineer%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20Cloud%20Infrastructure&descSize=16&descAlignY=64" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=220&section=header&text=WISIT%20MOONDET&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Backend%20Systems%20%7C%20Cloud%20Infrastructure&descAlignY=58&descSize=16" />
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Reliable+Systems;Backend-Focused+Full-Stack+Engineer;Cloud+Infrastructure+Explorer;Financial+Platform+Builder;Always+Learning+%E2%9A%A1" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+reliable+backend+systems;Designing+secure+API+integrations;Exploring+cloud+infrastructure+and+FinOps;Shipping+production-ready+software" />
 
 <br/>
 
 <a href="https://wisit.is-a.dev">
-  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/wisit-m">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:wisitmoondet@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ef4444?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-```bash
-> booting engineer profile...
-> loading backend systems...
-> initializing cloud infrastructure...
-> connecting secure integrations...
-> status: ready to build
-```
+<div align="center">
 
-## About Me
+### `engineer@wisit:~$ whoami`
+
+</div>
 
 ```ts
 const wisit = {
   role: "Backend-Focused Full-Stack Engineer",
-  location: "Bangkok, Thailand",
-  focus: [
-    "Backend Architecture",
-    "Cloud Infrastructure",
-    "Secure API Integration",
+  basedIn: "Bangkok, Thailand",
+  domain: [
     "Financial Service Platforms",
-    "Automation",
+    "Secure API Integrations",
+    "Cloud Infrastructure",
+    "Backend Reliability",
   ],
   currentlyExploring: [
     "NestJS",
     "AWS",
-    "FinOps",
+    "FinOps Automation",
     "System Design",
-    "AI-powered Developer Workflows",
+    "AI-assisted Engineering",
   ],
-  mindset: "Build. Break. Learn. Improve.",
+  philosophy: "Build systems that are simple, reliable, and useful.",
 };
 ```
 
 ---
 
-## Tech Arsenal
-
-<div align="center">
-
-### Core
-
-<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,angular,react,nextjs,tailwind,postgres,mysql,mongodb" />
-
-### Cloud & Tools
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,nginx,git,github,githubactions,figma,vscode,postman" />
-
-</div>
-
----
-
-## Engineering Identity
+## System Interface
 
 <table>
 <tr>
 <td width="50%">
 
-### Backend Systems
+### Backend Core
 
-* REST API Design
-* Authentication & Authorization
-* JWT / RBAC / Okta
-* Third-party Integrations
-* Token Refresh Flow
-* Error Handling & Logging
+```yaml
+runtime:
+  - Node.js
+  - TypeScript
+
+frameworks:
+  - NestJS
+  - Express.js
+
+database:
+  - PostgreSQL
+  - MySQL
+  - MongoDB
+
+patterns:
+  - REST API
+  - RBAC
+  - JWT
+  - Token Refresh
+  - Error Handling
+```
 
 </td>
 <td width="50%">
 
-### Cloud & Reliability
+### Cloud & Delivery
 
-* AWS Infrastructure
-* Dockerized Services
-* CI/CD Pipelines
-* S3 File Utilities
-* Cost Monitoring
-* Production Debugging
+```yaml
+cloud:
+  - AWS
+  - Azure
+
+infrastructure:
+  - Docker
+  - Linux
+  - Nginx
+
+delivery:
+  - GitHub Actions
+  - GitLab CI/CD
+  - SIT / UAT / Production
+
+focus:
+  - Observability
+  - Reliability
+  - Automation
+  - Cost Awareness
+```
 
 </td>
 </tr>
@@ -107,23 +112,33 @@ const wisit = {
 
 ---
 
-## Featured Focus
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,angular,react,nextjs,tailwind,postgres,mysql,mongodb,aws,azure,docker,linux,nginx,git,github,githubactions,figma,postman,vscode&perline=11" />
+
+</div>
+
+---
+
+## What I Build
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
-<h3>🔐 Secure Systems</h3>
-<p>Authentication, RBAC, JWT, token lifecycle, and secure platform integration.</p>
+<h3>🔐 Secure Integrations</h3>
+<p>Authentication, authorization, token lifecycle, and third-party platform integrations.</p>
 </td>
 <td align="center" width="33%">
-<h3>☁️ Cloud Infra</h3>
-<p>AWS, Azure, Docker, automation, monitoring, and production deployment.</p>
+<h3>⚙️ Backend Systems</h3>
+<p>Production APIs, service logic, data flow, logging, validation, and reliability improvements.</p>
 </td>
 <td align="center" width="33%">
-<h3>⚙️ Backend APIs</h3>
-<p>Reliable backend services for financial and enterprise platforms.</p>
+<h3>☁️ Cloud Automation</h3>
+<p>Cloud infrastructure, CI/CD, monitoring, cost visibility, and automation workflows.</p>
 </td>
 </tr>
 </table>
@@ -132,46 +147,16 @@ const wisit = {
 
 ---
 
-## Contribution Snake
+## GitHub Dashboard
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Wisitt/Wisitt/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
-## 3D Contribution Skyline
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution" />
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Wisitt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Wisitt&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Wisitt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=460" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Wisitt&theme=tokyonight&hide_border=true&card_width=460" />
 
 <br/><br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisitt&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Wisitt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12" />
+<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisitt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -181,7 +166,17 @@ const wisit = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wisitt&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wisitt&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+
+</div>
+
+---
+
+## Trophy Wall
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Wisitt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" />
 
 </div>
 
@@ -192,7 +187,7 @@ const wisit = {
 <div align="center">
 
 <a href="https://app.daily.dev/wisit">
-  <img src="https://api.daily.dev/devcards/v2/q0k6mdpT5If2mA2oIo7G9.png?type=wide&r=6j2" width="650" alt="Wisit Moondet's Dev Card"/>
+  <img src="https://api.daily.dev/devcards/v2/q0k6mdpT5If2mA2oIo7G9.png?type=wide&r=6j2" width="720" alt="Wisit Moondet's Dev Card"/>
 </a>
 
 </div>
@@ -201,8 +196,15 @@ const wisit = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e3a8a,100:0f172a&height=130&section=footer"/>
+```bash
+> build clean
+> ship fast
+> debug deeply
+> improve continuously
+```
 
-### `build systems, not just software`
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=12,20,24,25,30" />
 
 </div>
