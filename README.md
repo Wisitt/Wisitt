@@ -1,36 +1,32 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=240&color=0:fbcfe8,40:bae6fd,100:c4b5fd&text=%E2%97%88%20WISIT%20MOONDET%20%E2%97%88&fontSize=46&fontColor=2d2a4a&font=Press%20Start%202P&animation=twinkling&desc=%E2%96%B6%20FULL-STACK%20ENGINEER%20%C2%B7%20BACKEND%20%26%20CLOUD&descSize=14&descAlignY=66"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=240&color=0:fbcfe8,40:bae6fd,100:c4b5fd&text=%E2%97%88%20WISIT%20MOONDET%20%E2%97%88&fontSize=46&fontColor=2d2a4a&animation=twinkling&desc=%E2%96%B6%20FULL-STACK%20ENGINEER%20%C2%B7%20BACKEND%20%26%20CLOUD&descSize=14&descAlignY=66"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=15&duration=2800&pause=900&color=9D5FE8&center=true&vCenter=true&width=820&height=70&lines=%E2%96%B6+building+cute+little+systems;%E2%98%85+shipping+clean+backend+APIs;%E2%98%81+cloud+things+%26+debugging+days;%E2%9C%A6+always+learning%2C+always+building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=15&duration=2800&pause=900&color=9D5FE8&center=true&vCenter=true&width=820&height=70&lines=%E2%96%B6+building+cute+little+systems;%E2%98%85+shipping+clean+backend+APIs;%E2%98%81+cloud+things+and+debugging+days;%E2%9C%A6+always+learning+always+building"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/-%E2%97%86%20PLAYER%20ONE%20%E2%97%86-fbcfe8?style=flat-square&labelColor=2d2a4a"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Wisitt&style=flat-square&color=f9a8d4&label=%E2%96%B6+VISITS"/>
-<img src="https://img.shields.io/github/followers/Wisitt?style=flat-square&color=bae6fd&labelColor=2d2a4a&label=%E2%98%85+FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/Wisitt?style=flat-square&color=c4b5fd&labelColor=2d2a4a&label=%E2%9C%A6+STARS"/>
+<img src="https://img.shields.io/badge/%E2%97%86%20PLAYER%20ONE%20%E2%97%86-fbcfe8?style=flat-square&labelColor=2d2a4a"/>
+<img src="https://komarev.com/ghpvc/?username=Wisitt&style=flat-square&color=f9a8d4&label=%E2%96%B6%20VISITS"/>
+<img src="https://img.shields.io/github/followers/Wisitt?style=flat-square&color=bae6fd&labelColor=2d2a4a&label=%E2%98%85%20FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/Wisitt?style=flat-square&color=c4b5fd&labelColor=2d2a4a&label=%E2%9C%A6%20STARS"/>
 
 </div>
 
-```
+```text
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
    ▛▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▜
-   ▌   ◆ LEVEL: FULL-STACK   ◆ HP: ████████░░ 80%   ▐
-   ▌   ◆ CLASS: BACKEND/CLOUD MAGE   ◆ MANA: ∞      ▐
+   ▌   ◆ LEVEL: FULL-STACK        ◆ HP: ████████░░ 80%   ▐
+   ▌   ◆ CLASS: BACKEND/CLOUD     ◆ MANA: ∞              ▐
    ▙▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▟
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-```markdown
 <div align="center">
 
 ### ◢◤ CONNECT ◢◤
 
-<a href="https://wisit.is-a.dev"><img src="https://img.shields.io/badge/%E2%96%B6%20PORTFOLIO-fbcfe8?style=flat-square&logo=vercel&logoColor=2d2a4a&labelColor=2d2a4a"/></a>
-<a href="https://linkedin.com/in/wisit-m"><img src="https://img.shields.io/badge/%E2%96%B6%20LINKEDIN-bae6fd?style=flat-square&logo=linkedin&logoColor=2d2a4a&labelColor=2d2a4a"/></a>
-<a href="mailto:wisitmoondet@gmail.com"><img src="https://img.shields.io/badge/%E2%96%B6%20EMAIL-c4b5fd?style=flat-square&logo=gmail&logoColor=2d2a4a&labelColor=2d2a4a"/></a>
+<a href="https://wisit.is-a.dev"><img src="https://img.shields.io/badge/%E2%96%B6%20PORTFOLIO-fbcfe8?style=flat-square&logo=vercel&logoColor=2d2a4a&labelColor=2d2a4a"/></a> <a href="https://linkedin.com/in/wisit-m"><img src="https://img.shields.io/badge/%E2%96%B6%20LINKEDIN-bae6fd?style=flat-square&logo=linkedin&logoColor=2d2a4a&labelColor=2d2a4a"/></a> <a href="mailto:wisitmoondet@gmail.com"><img src="https://img.shields.io/badge/%E2%96%B6%20EMAIL-c4b5fd?style=flat-square&logo=gmail&logoColor=2d2a4a&labelColor=2d2a4a"/></a>
 
 <br/><br/>
 
@@ -45,7 +41,7 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Wisitt&show_icons=true&theme=synthwave&hide_border=true&rank_icon=github&bg_color=2d2a4a&title_color=f9a8d4&icon_color=bae6fd&text_color=ffffff&card_width=460"/>
 <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Wisitt&theme=synthwave&hide_border=true&background=2d2a4a&ring=f9a8d4&fire=c4b5fd&currStreakLabel=bae6fd"/>
 
-<br/>
+<br/><br/>
 
 <img width="62%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisitt&layout=compact&theme=synthwave&hide_border=true&langs_count=8&bg_color=2d2a4a&title_color=f9a8d4&text_color=ffffff"/>
 
@@ -63,17 +59,8 @@
 
 <br/><br/>
 
-<a href="https://app.daily.dev/wisit"><img width="76%" src="https://api.daily.dev/devcards/v2/q0k6mdpT5If2mA2oIo7G9.png?type=wide&r=6j2" alt="Dev Card"/></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/-%E2%97%86%20THANKS%20FOR%20PLAYING%20%E2%97%86-c4b5fd?style=flat-square&labelColor=2d2a4a"/>
+<img src="https://img.shields.io/badge/%E2%97%86%20THANKS%20FOR%20PLAYING%20%E2%97%86-c4b5fd?style=flat-square&labelColor=2d2a4a"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:c4b5fd,45:bae6fd,100:fbcfe8"/>
 
 </div>
-```
-
-Key changes: `Press Start 2P` pixel font in headers and typing SVG, retro game-stat framing (HP bar, inventory, quest log, achievements), an ASCII "status box" panel, `synthwave`/`react-dark`/`algolia` pixel-friendly themes with matching pastel hex colors, flat-square badges (sharper pixel edges than `for-the-badge`), and `◢◤ ◆ ▶ ★ ✦` decorations throughout. I also swapped the streak-stats endpoint to `nirzak-streak-stats` since the old Heroku one is frequently down.
-
-Note: the ASCII box is in its own code block so it renders as monospace pixel art — paste all three blocks together into your README.
