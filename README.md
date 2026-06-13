@@ -1,25 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,45:0f172a,100:38bdf8&text=WISIT%20MOONDET&fontSize=58&fontColor=ffffff&animation=fadeIn&stroke=38bdf8&strokeWidth=1&desc=FULL-STACK%20ENGINEER%20%E2%80%A2%20BACKEND%20SYSTEMS%20%E2%80%A2%20CLOUD%20INFRASTRUCTURE&descSize=15&descAlignY=66"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&customColorList=12,20,24,25,30&text=Wisit%20Moondet&fontSize=54&fontColor=FFFFFF&animation=fadeIn&desc=Full-Stack%20Engineer%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20Cloud%20Infrastructure&descSize=16&descAlignY=64" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=building+systems;shipping+products;debugging+production;exploring+cloud;learning+forever"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+reliable+backend+systems;Designing+secure+API+integrations;Exploring+cloud+infrastructure+and+FinOps;Shipping+production-ready+software" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Wisitt&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Wisitt?style=for-the-badge&color=0ea5e9&labelColor=020617"/>
-<img src="https://img.shields.io/github/stars/Wisitt?style=for-the-badge&color=38bdf8&labelColor=020617"/>
-
-<br/><br/>
-
 <a href="https://wisit.is-a.dev">
-  <img src="https://img.shields.io/badge/PORTFOLIO-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/wisit-m">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:wisitmoondet@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -28,59 +22,172 @@
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wisitt&theme=tokyonight"/>
+### `engineer@wisit:~$ whoami`
+
+</div>
+
+```ts
+const wisit = {
+  role: "Backend-Focused Full-Stack Engineer",
+  basedIn: "Bangkok, Thailand",
+  domain: [
+    "Financial Service Platforms",
+    "Secure API Integrations",
+    "Cloud Infrastructure",
+    "Backend Reliability",
+  ],
+  currentlyExploring: [
+    "NestJS",
+    "AWS",
+    "FinOps Automation",
+    "System Design",
+    "AI-assisted Engineering",
+  ],
+  philosophy: "Build systems that are simple, reliable, and useful.",
+};
+```
+
+---
+
+## System Interface
+
+<table>
+<tr>
+<td width="50%">
+
+### Backend Core
+
+```yaml
+runtime:
+  - Node.js
+  - TypeScript
+
+frameworks:
+  - NestJS
+  - Express.js
+
+database:
+  - PostgreSQL
+  - MySQL
+  - MongoDB
+
+patterns:
+  - REST API
+  - RBAC
+  - JWT
+  - Token Refresh
+  - Error Handling
+```
+
+</td>
+<td width="50%">
+
+### Cloud & Delivery
+
+```yaml
+cloud:
+  - AWS
+  - Azure
+
+infrastructure:
+  - Docker
+  - Linux
+  - Nginx
+
+delivery:
+  - GitHub Actions
+  - GitLab CI/CD
+  - SIT / UAT / Production
+
+focus:
+  - Observability
+  - Reliability
+  - Automation
+  - Cost Awareness
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,angular,react,nextjs,tailwind,postgres,mysql,mongodb,aws,azure,docker,linux,nginx,git,github,githubactions,figma,postman,vscode&perline=11" />
+
+</div>
+
+---
+
+## What I Build
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>🔐 Secure Integrations</h3>
+<p>Authentication, authorization, token lifecycle, and third-party platform integrations.</p>
+</td>
+<td align="center" width="33%">
+<h3>⚙️ Backend Systems</h3>
+<p>Production APIs, service logic, data flow, logging, validation, and reliability improvements.</p>
+</td>
+<td align="center" width="33%">
+<h3>☁️ Cloud Automation</h3>
+<p>Cloud infrastructure, CI/CD, monitoring, cost visibility, and automation workflows.</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## GitHub Dashboard
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Wisitt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=460" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Wisitt&theme=tokyonight&hide_border=true&card_width=460" />
 
 <br/><br/>
 
-<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wisitt&theme=tokyonight"/>
-<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wisitt&theme=tokyonight"/>
-<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Wisitt&theme=tokyonight&utcOffset=7"/>
+<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisitt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
+
+## Activity Graph
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,angular,react,nextjs,tailwind,postgres,mysql,mongodb,aws,azure,docker,linux,nginx,git,github,githubactions,figma,postman,vscode&perline=11"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wisitt&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
 </div>
 
 ---
+
+## Trophy Wall
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Wisitt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=460"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Wisitt&theme=tokyonight&hide_border=true&card_width=460"/>
-
-<br/><br/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisitt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Wisitt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" />
 
 </div>
 
 ---
 
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Wisitt&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Wisitt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7"/>
-
-</div>
-
----
+## Dev Card
 
 <div align="center">
 
 <a href="https://app.daily.dev/wisit">
-  <img width="78%" src="https://api.daily.dev/devcards/v2/q0k6mdpT5If2mA2oIo7G9.png?type=wide&r=6j2" alt="Wisit Moondet's Dev Card"/>
+  <img src="https://api.daily.dev/devcards/v2/q0k6mdpT5If2mA2oIo7G9.png?type=wide&r=6j2" width="720" alt="Wisit Moondet's Dev Card"/>
 </a>
 
 </div>
@@ -89,6 +196,15 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:38bdf8,45:0f172a,100:020617"/>
+```bash
+> build clean
+> ship fast
+> debug deeply
+> improve continuously
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=12,20,24,25,30" />
 
 </div>
